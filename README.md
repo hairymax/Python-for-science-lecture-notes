@@ -9,3 +9,4 @@
 Ссылки на оригинальный проект:   
 [![GitHub](https://travis-ci.org/scipy-lectures/scipy-lecture-notes.svg?branch=master)](https://github.com/scipy-lectures/scipy-lecture-notes) - GitHub  
 [![Пособие "Scipy Lecture Notes"](https://zenodo.org/badge/DOI/10.5281/zenodo.3894791.svg)](https://doi.org/10.5281/zenodo.3894791) - Пособие
+
